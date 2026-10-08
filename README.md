@@ -1,5 +1,7 @@
 # Zenderal
 
+Website: [zenematics.com](https://zenematics.com)
+
 An **Enderal: Forgotten Stories Special Edition** modlist for [Wabbajack](https://www.wabbajack.org), built on three things: **bug fixes**, **modern combat** and **modern visuals**.
 
 > **Public alpha.** Expect rough edges and report what you find.
