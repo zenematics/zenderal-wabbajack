@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Zenderal",
+    "description": "An Enderal: Forgotten Stories Special Edition modlist built on three things: bug fixes, modern combat and modern visuals. Ships custom compatibility patches so its overhauls work together in Enderal. Public alpha.",
+    "author": "Zenematics",
+    "maintainers": [
+      "github/friendlycocktails-lgtm"
+    ],
+    "game": "enderalspecialedition",
+    "official": false,
+    "tags": [
+      "Steam",
+      "SFW",
+      "Combat Overhaul",
+      "Dark Fantasy"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/zenematics/zenderal-wabbajack/main/zenderal.jpg",
+      "readme": "https://github.com/zenematics/zenderal-wabbajack#readme",
+      "download": "https://authored-files.wabbajack.org/Zenderal.wabbajack_89b52664-88f5-49fb-a97b-4cb9f9eaaba1",
+      "machineURL": "Zenderal",
+      "discordURL": "",
+      "websiteURL": "https://github.com/zenematics/zenderal-wabbajack"
+    },
+    "download_metadata": {
+      "Hash": "2N4MGiEBsik=",
+      "Size": 130720173,
+      "NumberOfArchives": 957,
+      "SizeOfArchives": 111249254046,
+      "NumberOfInstalledFiles": 90886,
+      "SizeOfInstalledFiles": 159621701364,
+      "TotalSize": 270870955410
+    },
+    "version": "0.5.3"
+  }
+]
