@@ -22,24 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/zenematics/zenderal-wabbajack/main/zenderal.jpg",
       "readme": "https://github.com/zenematics/zenderal-wabbajack#readme",
-      "download": "https://authored-files.wabbajack.org/Zenderal.wabbajack_e1aefb5a-bb72-417a-ad55-19bcb65abae5",
+      "download": "https://authored-files.wabbajack.org/Zenderal.wabbajack_767a5d9e-af17-4210-b4e6-435509cca404",
       "machineURL": "Zenderal",
       "discordURL": "",
       "websiteURL": "https://zenematics.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "CT40uX2KlCk=",
-      "Size": 522995972,
-      "NumberOfArchives": 1076,
-      "SizeOfArchives": 148930905944,
-      "NumberOfInstalledFiles": 137077,
-      "SizeOfInstalledFiles": 202993328380,
-      "TotalSize": 351924234324
+      "Hash": "lPLIDAbK8KQ=",
+      "Size": 522749546,
+      "NumberOfArchives": 1082,
+      "SizeOfArchives": 149303602956,
+      "NumberOfInstalledFiles": 137290,
+      "SizeOfInstalledFiles": 203304891062,
+      "TotalSize": 352608494018
     },
-    "version": "0.9.3",
+    "version": "0.9.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-11-03T23:15:57.5989631Z",
+    "dateUpdated": "2026-11-06T17:56:15.5800421Z",
     "repositoryName": ""
   }
 ]
